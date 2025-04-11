@@ -1,4 +1,4 @@
-### 👋🏽 Tally Szakel 
+### *"Sometimes I wish I was a cloud..."* 
 
 <img align="right" alt="Coding" width="300px" style="padding-right:10px;" 
      src="https://media.tenor.com/ZmZ7UKIc0soAAAAM/anonymous-anonymous-bites-back.gif" />
